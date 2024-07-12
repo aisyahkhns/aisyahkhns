@@ -20,6 +20,9 @@ I am a fresh graduate from Informatics Engineering Education with a passion for 
 - Analyzing data to uncover insights and drive decision-making.
 - Innovating and building products that make a difference.
 
+### Current Initiatives
+Generative AI Development: Currently taking the initiative to develop generative AI technologies.
+
 ### My Strengths
 Although I am at an entry level, I possess a strong ability to learn quickly and adapt to new technologies and challenges.
 
