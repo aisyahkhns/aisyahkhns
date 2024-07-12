@@ -27,7 +27,7 @@ Generative AI Development: Currently taking the initiative to develop generative
 Although I am at an entry level, I possess a strong ability to learn quickly and adapt to new technologies and challenges.
 
 ### Let's Connect
-- LinkedIn: (https://www.linkedin.com/in/aisyahkhns)
+- LinkedIn: (https://www.linkedin.com/in/aisyakhns)
 
 
 <!---
